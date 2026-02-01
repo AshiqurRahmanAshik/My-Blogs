@@ -3,6 +3,7 @@
 ---
 ### CSS
 [CSS Selectors: Your Complete Beginner’s Guide](https://medium.com/@ashiqurrahmanashik111/css-selectors-your-complete-beginners-guide-a7ced23c2ad9)
+[CSS Flexbox: The Ultimate In‑Depth Guide](https://medium.com/@ashiqurrahmanashik111/css-flexbox-the-ultimate-in-depth-guide-with-interview-practical-examples-66b50e790895)
 
 
 ---
