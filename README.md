@@ -1,4 +1,7 @@
-### All blog links are hyperlinked with their titles. To view a blog, click on its title.
+# All blog links are hyperlinked with their titles. To view a blog, click on its title.
+
+### Backend Basics
+[Understanding HTTP Methods: The Language Your Browser Speaks to Servers](https://medium.com/@ashiqurrahmanashik111/understanding-http-methods-the-language-your-browser-speaks-to-servers-4065091396a6)
 
 ---
 ### CSS
